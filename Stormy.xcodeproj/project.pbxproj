@@ -409,6 +409,7 @@
 				197B324419E6A0BF00C2070E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		197B324519E6A0BF00C2070E /* Build configuration list for PBXNativeTarget "StormyTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				197B324719E6A0BF00C2070E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
