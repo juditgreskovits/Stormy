@@ -85,7 +85,7 @@
                                 <rect key="frame" x="150" y="40" width="20" height="20"/>
                             </activityIndicatorView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="degree" translatesAutoresizingMaskIntoConstraints="NO" id="6wa-GQ-zGJ">
-                                <rect key="frame" x="268" y="206" width="36" height="36"/>
+                                <rect key="frame" x="275" y="206" width="36" height="36"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.29019607843137252" green="0.56470588235294117" blue="0.88627450980392153" alpha="1" colorSpace="calibratedRGB"/>
@@ -100,14 +100,14 @@
                             <constraint firstItem="9ck-Tj-IzV" firstAttribute="top" secondItem="6wa-GQ-zGJ" secondAttribute="bottom" constant="-44" id="Ltp-s4-NiY"/>
                             <constraint firstItem="Quq-18-fQN" firstAttribute="centerY" secondItem="JDa-lV-kkg" secondAttribute="centerY" constant="-0.5" id="Nvg-qy-STT"/>
                             <constraint firstItem="Quq-18-fQN" firstAttribute="centerX" secondItem="JDa-lV-kkg" secondAttribute="centerX" constant="1.5" id="QDy-Oo-rW3"/>
-                            <constraint firstItem="6wa-GQ-zGJ" firstAttribute="leading" secondItem="9ck-Tj-IzV" secondAttribute="trailing" constant="-17.5" id="RwL-aJ-y87"/>
+                            <constraint firstItem="6wa-GQ-zGJ" firstAttribute="leading" secondItem="9ck-Tj-IzV" secondAttribute="trailing" constant="-10" id="RwL-aJ-y87"/>
                             <constraint firstAttribute="centerX" secondItem="1gz-BW-LH3" secondAttribute="centerX" constant="-0.5" id="TQJ-Dl-PZ9"/>
                             <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="a7a-Dw-bdl" secondAttribute="bottom" constant="177" id="Txd-6g-0MW"/>
-                            <constraint firstAttribute="centerX" secondItem="fCH-Pj-fnS" secondAttribute="centerX" constant="13" id="aSe-Lk-wVL"/>
                             <constraint firstItem="kx6-aT-HZk" firstAttribute="top" secondItem="0ny-de-ov8" secondAttribute="bottom" constant="10" id="bkU-by-xXo"/>
                             <constraint firstAttribute="centerX" secondItem="9ck-Tj-IzV" secondAttribute="centerX" constant="-0.5" id="dGm-xa-2KS"/>
                             <constraint firstItem="A3N-bL-KMd" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="72" id="f4n-X2-o3X"/>
                             <constraint firstItem="a7a-Dw-bdl" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="40" id="lp9-aF-fGP"/>
+                            <constraint firstItem="fCH-Pj-fnS" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="90" id="oev-PI-qau"/>
                             <constraint firstAttribute="centerY" secondItem="9ck-Tj-IzV" secondAttribute="centerY" id="omw-J4-05i"/>
                             <constraint firstItem="d8S-uK-ozm" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="47" id="pdb-D3-UPc"/>
                             <constraint firstItem="fCH-Pj-fnS" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="89" id="sOf-w2-B5l"/>
@@ -130,7 +130,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="74" y="128"/>
+            <point key="canvasLocation" x="74.5" y="128"/>
         </scene>
     </scenes>
     <resources>
